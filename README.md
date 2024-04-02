@@ -5,21 +5,21 @@ Welcome to my GitHub Progress Showcase! Below, you'll find a visual representati
 
 ## Overview
 
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=krishna-kant-tiwari&show_icons=true&theme=radical)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-kant-tiwari&layout=compact&theme=radical)
 
 ## Contribution Graph
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=YourGitHubUsername&theme=rogue)
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=krishna-kant-tiwari&theme=rogue)
 
 ## Repository Cards
 
 ### Repository 1
 
-![Repository 1](https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=Repository1&theme=radical)
+![Repository 1](https://github.com/krishna-kant-tiwari/jay-shree-ram.git)
 
 ### Repository 2
 
