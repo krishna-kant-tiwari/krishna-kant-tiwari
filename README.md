@@ -19,7 +19,7 @@ Welcome to my GitHub Progress Showcase! Below, you'll find a visual representati
 
 ### Repository 1
 
-![Repository 1](https://github.com/krishna-kant-tiwari/jay-shree-ram)
+![Repository 1](https://github.com/krishna-kant-tiwari/jay-shree-ram.git)
 
 ### Repository 2
 
