@@ -62,7 +62,7 @@ Feel free to reach out to me if you have any questions or suggestions!
 <h2 align="center">Repository Cards 📚</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishna-kant-tiwari&repo=Repository1&theme=dark" alt="Repository 1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishna-kant-tiwari&repo=https://github.com/krishna-kant-tiwari/jay-shree-ram.git&theme=dark" alt="Repository 1">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=Repository2&theme=dark" alt="Repository 2">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=Repository3&theme=dark" alt="Repository 3">
 </p>
